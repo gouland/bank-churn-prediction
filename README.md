@@ -1,23 +1,24 @@
 ```markdown
 # 🏦 Bank Customer Churn Prediction
 
-<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-00C851?style=for-the-badge)
+<div align="center">
 
-</p>
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine-Learning-FF6B00?logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-00C851)
+
+</div>
 
 
 A comprehensive machine learning project that predicts bank customer churn with **86% accuracy** using multiple classification algorithms.
 
-## 📊 Project Overview
+## 🖼️ Project Overview
 
 This project analyzes bank customer data to identify patterns and predict which customers are likely to leave the bank. The solution helps banks implement proactive retention strategies.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -27,7 +28,7 @@ This project analyzes bank customer data to identify patterns and predict which 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bank-churn-prediction.git
+git clone https://github.com/gouland/bank-churn-prediction.git
 cd bank-churn-prediction
 
 # Install dependencies
@@ -50,14 +51,14 @@ jupyter notebook
 - Feature engineering and selection
 - Visualization of key patterns
 
-### 🤖 Machine Learning Models
+###  Machine Learning Models
 - **Logistic Regression** - Baseline model
 - **Random Forest** - Ensemble method
 - **XGBoost** - Gradient boosting
 - **Support Vector Machine (SVM)** - Advanced classification
 - **Model comparison** and performance evaluation
 
-### 📊 Key Findings
+### 🥇 Key Findings
 - Identified top churn indicators
 - Achieved **86% prediction accuracy**
 - Feature importance analysis
@@ -131,6 +132,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ If you find this project useful, please give it a star!**
 ```
+
 
 
 
