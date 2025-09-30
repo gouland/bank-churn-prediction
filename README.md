@@ -130,4 +130,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ```
 
 
-**Copy and paste this complete version** - the badges will now show up as colorful images instead of plain text! 🎨
