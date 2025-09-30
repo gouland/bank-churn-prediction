@@ -1,0 +1,5 @@
+# Data files - we won't upload these to GitHub
+*.csv
+__pycache__/
+*.pyc
+.DS_Store

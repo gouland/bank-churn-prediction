@@ -1,0 +1,52 @@
+{
+  "best_model": "Gradient Boosting",
+  "best_auc": 0.8674167233489268,
+  "best_f1": 0.5932721712538226,
+  "all_results": {
+    "accuracy": {
+      "Gradient Boosting": 0.867,
+      "Random Forest": 0.8645,
+      "XGBoost": 0.853,
+      "Logistic Regression": 0.7065,
+      "Support Vector Machine": 0.7385,
+      "Decision Tree": 0.7805,
+      "K-Nearest Neighbors": 0.764
+    },
+    "precision": {
+      "Gradient Boosting": 0.7854251012145749,
+      "Random Forest": 0.8008849557522124,
+      "XGBoost": 0.7084870848708487,
+      "Logistic Regression": 0.3815789473684211,
+      "Support Vector Machine": 0.4088050314465409,
+      "Decision Tree": 0.46,
+      "K-Nearest Neighbors": 0.2556390977443609
+    },
+    "recall": {
+      "Gradient Boosting": 0.47665847665847666,
+      "Random Forest": 0.44471744471744473,
+      "XGBoost": 0.47174447174447176,
+      "Logistic Regression": 0.7125307125307125,
+      "Support Vector Machine": 0.6388206388206388,
+      "Decision Tree": 0.4520884520884521,
+      "K-Nearest Neighbors": 0.08353808353808354
+    },
+    "f1_score": {
+      "Gradient Boosting": 0.5932721712538226,
+      "Random Forest": 0.5718799368088467,
+      "XGBoost": 0.5663716814159292,
+      "Logistic Regression": 0.49700085689802914,
+      "Support Vector Machine": 0.49856184084372,
+      "Decision Tree": 0.4560099132589839,
+      "K-Nearest Neighbors": 0.1259259259259259
+    },
+    "roc_auc": {
+      "Gradient Boosting": 0.8674167233489268,
+      "Random Forest": 0.8489776371132304,
+      "XGBoost": 0.8348656823233094,
+      "Logistic Regression": 0.775345453311555,
+      "Support Vector Machine": 0.764019797918103,
+      "Decision Tree": 0.6582476158747345,
+      "K-Nearest Neighbors": 0.5265157299055604
+    }
+  }
+}
