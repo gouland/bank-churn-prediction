@@ -1,10 +1,12 @@
 ```markdown
 # 🏦 Bank Customer Churn Prediction
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-yellow)
-![Status](https://img.shields.io/badge/Status-Complete-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Status-Complete-00C851?style=for-the-badge" alt="Status">
+</p>
 
 A comprehensive machine learning project that predicts bank customer churn with **86% accuracy** using multiple classification algorithms.
 
@@ -115,7 +117,7 @@ Key dependencies include:
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [yourusername](https://github.com/gouland)
+- GitHub: [GOULAND](https://github.com/gouland)
 - Project: Bank Customer Churn Prediction
 
 ## 📄 License
@@ -126,3 +128,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ If you find this project useful, please give it a star!**
 ```
+
+
+**Copy and paste this complete version** - the badges will now show up as colorful images instead of plain text! 🎨
