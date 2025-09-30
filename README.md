@@ -2,11 +2,14 @@
 # 🏦 Bank Customer Churn Prediction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Status-Complete-00C851?style=for-the-badge" alt="Status">
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-00C851?style=for-the-badge)
+
 </p>
+
 
 A comprehensive machine learning project that predicts bank customer churn with **86% accuracy** using multiple classification algorithms.
 
@@ -128,5 +131,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ If you find this project useful, please give it a star!**
 ```
+
 
 
